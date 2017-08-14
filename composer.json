@@ -1,0 +1,21 @@
+{
+    "name": "letzpetz/landregistry",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"   
+    },
+    "autoload": {
+        "psr-4": {
+            "LandRegistry\\": "LandRegistry/"
+        }
+    },
+    "minimum-stability": "stable",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Max Novos",
+            "email": "novomax.work@gmail.com"
+        }
+    ]
+}

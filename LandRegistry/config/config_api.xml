@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <base_url>https://e.land.gov.ua</base_url>
+    <client_id>284_11r1bnl3nilck99cw4ocgg8k4sgk8ck8wocgg800cc4gk4w48k</client_id>
+    <client_secret>5o7xo9lkv9ss888gsksg4w8cw555cs0cw4cwo8sg044k4ogo0s</client_secret>
+    <grant_type>client_credentials</grant_type>
+</Configuration>
